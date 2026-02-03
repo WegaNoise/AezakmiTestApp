@@ -1,0 +1,144 @@
+/*
+  Localizable.strings
+  Aezakmi
+
+  Created by petar on 05.02.2026.
+  
+*/
+"bluetooth_tab" = "Bluetooth";
+"network_tab" = "Network";
+"history_tab" = "History";
+
+"bluetooth_title" = "Bluetooth Devices";
+"bluetooth_subtitle" = "Scan nearby Bluetooth devices";
+"start_bluetooth_scan" = "Start Bluetooth Scan";
+"stop_scanning" = "Stop Scanning";
+"scanning_progress" = "Scanning... %d%%";
+"no_bluetooth_devices" = "Bluetooth Devices";
+"no_devices_message" = "Press button to start scanning";
+"scanning_message" = "Scanning for Bluetooth devices...";
+"scan_complete" = "Scan Complete";
+"devices_saved" = "%d devices saved";
+
+"network_title" = "Network Devices";
+"network_subtitle" = "Scan devices in local network";
+"start_network_scan" = "Start Network Scan";
+"no_network_devices" = "Network Devices";
+"scanning_network_message" = "Scanning local network...";
+
+"history_title" = "Scan History";
+"history_subtitle" = "View all previous scans";
+"sessions_count" = "Sessions";
+"devices_count" = "Devices";
+"search_devices" = "Search devices...";
+"clear_history" = "Clear History";
+"no_history" = "No History";
+"no_history_message" = "Perform Bluetooth or network scan to see history";
+"no_results" = "No Results";
+"no_results_message" = "Try changing search filters";
+"combined_scan" = "Combined";
+
+"connected" = "Connected";
+"connecting" = "Connecting...";
+"disconnected" = "Disconnected";
+"unknown" = "Unknown";
+"local" = "Local";
+"remote" = "Remote";
+"strong_signal" = "Strong";
+"medium_signal" = "Medium";
+"weak_signal" = "Weak";
+
+"bluetooth_on" = "Bluetooth: On";
+"bluetooth_off" = "Bluetooth: Off";
+"bluetooth_unauthorized" = "Bluetooth: Unauthorized";
+"bluetooth_unsupported" = "Bluetooth: Unsupported";
+"network_ready" = "Network: Ready";
+
+"bluetooth_error" = "Bluetooth Error";
+"network_error" = "Network Error";
+"bluetooth_disabled" = "Bluetooth is disabled. Please enable Bluetooth in Settings.";
+"bluetooth_unauthorized_message" = "No Bluetooth permission. Please grant access in Settings.";
+"network_failed" = "Failed to scan network. Check Wi-Fi connection.";
+"scan_cancelled" = "Scan cancelled";
+
+"all_types" = "All Types";
+"bluetooth_only" = "Bluetooth Only";
+"network_only" = "Network Only";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"date" = "Date";
+"select_date" = "Select Date";
+"reset_date" = "Reset Date";
+"filters" = "Filters";
+"done" = "Done";
+"reset" = "Reset";
+
+"scan" = "Scan";
+"stop" = "Stop";
+"save" = "Save";
+"delete" = "Delete";
+"cancel" = "Cancel";
+"ok" = "OK";
+"settings" = "Settings";
+"total" = "Total";
+"devices" = "devices";
+
+"seconds" = "sec";
+"minutes" = "min";
+"min_sec_format" = "%d min %d sec";
+
+"unknown_device_format" = "Unknown Device (%@)";
+"mac_unknown" = "Unknown";
+
+"combined_scan" = "Combined";
+"in_progress" = "In progress...";
+
+"bluetooth_resetting" = "Bluetooth is resetting";
+"bluetooth_unknown" = "Bluetooth state is unknown";
+
+"network_permission_required" = "Network access required. Please grant permission in Settings";
+
+"scan_completed" = "Scan completed";
+"devices_found" = "Found %d devices";
+
+"database_save_error" = "Failed to save data";
+"database_load_error" = "Failed to load data";
+"database_delete_error" = "Failed to delete data";
+"database_clear_error" = "Failed to clear history";
+
+"clear_history_confirm" = "Clear all history?";
+"delete_session_confirm" = "Delete this scan session?";
+"action_cannot_be_undone" = "This action cannot be undone";
+
+"found_count" = "Found: %d";
+"status_unknown" = "Status: %@";
+"device_actions" = "Actions";
+"device_info" = "Device Info";
+"device_name" = "Device Name";
+"uuid" = "UUID";
+"signal_strength" = "Signal Strength";
+"signal_quality" = "Signal Quality";
+"weak_signal" = "Weak";
+"strong_signal" = "Strong";
+"disconnect" = "Disconnect";
+"connect" = "Connect";
+
+"connection_success" = "Connection Successful";
+"connection_error" = "Connection Error";
+"disconnection_success" = "Disconnection Successful";
+"connection_status" = "Connection Status";
+"connected_successfully" = "Connected successfully";
+"disconnected_successfully" = "Disconnected successfully";
+
+"last_seen" = "Last Seen";
+"network_info" = "Network Information";
+"session_info" = "Session Info";
+"scan_type" = "Scan Type";
+"start_time" = "Start Time";
+"end_time" = "End Time";
+"duration" = "Duration";
+"total_devices" = "Total Devices";
+"devices_list" = "Devices List";
+"bluetooth_devices" = "Bluetooth Devices";
+"network_devices" = "Network Devices";
+"loading" = "Loading...";

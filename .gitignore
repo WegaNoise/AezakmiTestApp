@@ -1,0 +1,24 @@
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Build
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Local configuration
+*.local.xcconfig

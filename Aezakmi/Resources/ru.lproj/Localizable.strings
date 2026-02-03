@@ -1,0 +1,141 @@
+/*
+  Localizable.strings
+  Aezakmi
+
+  Created by petar on 05.02.2026.
+  
+*/
+
+"bluetooth_tab" = "Bluetooth";
+"network_tab" = "Сеть";
+"history_tab" = "История";
+
+"bluetooth_title" = "Bluetooth устройства";
+"bluetooth_subtitle" = "Сканируйте Bluetooth устройства поблизости";
+"start_bluetooth_scan" = "Начать сканирование Bluetooth";
+"stop_scanning" = "Остановить сканирование";
+"scanning_progress" = "Сканирование... %d%%";
+"no_bluetooth_devices" = "Bluetooth устройства";
+"no_devices_message" = "Нажмите кнопку для начала сканирования";
+"scanning_message" = "Ищем Bluetooth устройства поблизости...";
+"scan_complete" = "Сканирование завершено";
+"devices_saved" = "Сохранено %d устройств";
+
+"network_title" = "Сетевые устройства";
+"network_subtitle" = "Сканируйте устройства в локальной сети";
+"start_network_scan" = "Начать сканирование сети";
+"no_network_devices" = "Сетевые устройства";
+"scanning_network_message" = "Сканируем локальную сеть...";
+
+"history_title" = "История сканирований";
+"history_subtitle" = "Просмотр всех предыдущих сканирований";
+"sessions_count" = "Сеансов";
+"devices_count" = "Устройств";
+"search_devices" = "Поиск устройств...";
+"clear_history" = "Очистить историю";
+"no_history" = "История пуста";
+"no_history_message" = "Выполните сканирование Bluetooth или сети, чтобы увидеть историю";
+"no_results" = "Ничего не найдено";
+"no_results_message" = "Попробуйте изменить фильтры поиска";
+"combined_scan" = "Комбинированный";
+
+"connected" = "Подключено";
+"connecting" = "Подключение...";
+"disconnected" = "Отключено";
+"unknown" = "Неизвестно";
+"local" = "Локальное";
+"remote" = "Удаленное";
+"strong_signal" = "Сильный";
+"medium_signal" = "Средний";
+"weak_signal" = "Слабый";
+
+"bluetooth_on" = "Bluetooth: Включен";
+"bluetooth_off" = "Bluetooth: Выключен";
+"bluetooth_unauthorized" = "Bluetooth: Нет разрешения";
+"bluetooth_unsupported" = "Bluetooth: Не поддерживается";
+"network_ready" = "Сеть: Готов";
+
+"bluetooth_error" = "Ошибка Bluetooth";
+"network_error" = "Ошибка сети";
+"bluetooth_disabled" = "Bluetooth выключен. Включите Bluetooth в настройках.";
+"bluetooth_unauthorized_message" = "Нет разрешения Bluetooth. Предоставьте доступ в настройках.";
+"network_failed" = "Не удалось просканировать сеть. Проверьте подключение к Wi-Fi.";
+"scan_cancelled" = "Сканирование отменено";
+
+"all_types" = "Все типы";
+"bluetooth_only" = "Только Bluetooth";
+"network_only" = "Только Сеть";
+"today" = "Сегодня";
+"yesterday" = "Вчера";
+"date" = "Дата";
+"select_date" = "Выбрать дату";
+"reset_date" = "Сбросить дату";
+"filters" = "Фильтры";
+"done" = "Готово";
+"reset" = "Сбросить";
+
+"scan" = "Сканировать";
+"stop" = "Стоп";
+"save" = "Сохранить";
+"delete" = "Удалить";
+"cancel" = "Отмена";
+"ok" = "OK";
+"settings" = "Настройки";
+"total" = "Всего";
+"devices" = "устройств";
+
+"seconds" = "сек";
+"minutes" = "мин";
+"min_sec_format" = "%d мин %d сек";
+
+"unknown_device_format" = "Неизвестное устройство (%@)";
+"mac_unknown" = "Неизвестен";
+
+"combined_scan" = "Комбинированный";
+"in_progress" = "В процессе...";
+
+"bluetooth_resetting" = "Bluetooth находится в процессе сброса";
+"bluetooth_unknown" = "Состояние Bluetooth неизвестно";
+"network_permission_required" = "Требуется доступ к сети. Предоставьте разрешение в Настройках";
+"scan_completed" = "Сканирование завершено";
+"devices_found" = "Найдено %d устройств";
+"database_save_error" = "Не удалось сохранить данные";
+"database_load_error" = "Не удалось загрузить данные";
+"database_delete_error" = "Не удалось удалить данные";
+"database_clear_error" = "Не удалось очистить историю";
+"clear_history_confirm" = "Очистить всю историю?";
+"delete_session_confirm" = "Удалить этот сеанс сканирования?";
+"action_cannot_be_undone" = "Это действие нельзя отменить";
+
+"found_count" = "Найдено: %d";
+"status_unknown" = "Статус: %@";
+"device_actions" = "Действия";
+"device_info" = "Информация об устройстве";
+"device_name" = "Имя устройства";
+"uuid" = "UUID";
+"signal_strength" = "Сила сигнала";
+"signal_quality" = "Качество сигнала";
+"weak_signal" = "Слабый";
+"strong_signal" = "Сильный";
+"disconnect" = "Отключиться";
+"connect" = "Подключиться";
+
+"connection_success" = "Подключение успешно";
+"connection_error" = "Ошибка подключения";
+"disconnection_success" = "Отключение успешно";
+"connection_status" = "Статус подключения";
+"connected_successfully" = "Подключено успешно";
+"disconnected_successfully" = "Отключено успешно";
+
+"last_seen" = "Последний раз";
+"network_info" = "Сетевая информация";
+"session_info" = "Информация о сеансе";
+"scan_type" = "Тип сканирования";
+"start_time" = "Время начала";
+"end_time" = "Время окончания";
+"duration" = "Длительность";
+"total_devices" = "Всего устройств";
+"devices_list" = "Список устройств";
+"bluetooth_devices" = "Bluetooth устройства";
+"network_devices" = "Сетевые устройства";
+"loading" = "Загрузка...";
